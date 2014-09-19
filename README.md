@@ -14,3 +14,26 @@ production. It will be transitioned to the canonical QIIME repo
 ([biocore/qiime](https://github.com/biocore/qiime)) when the package is ready
 to be released. This package is under active development and all functionality
 should be treated as **pre-alpha**.
+
+Executive Summary
+=================
+todo
+
+Timeline for Deployment
+=======================
+
+Phase 0
+-------
+todo
+
+Phase 1
+-------
+functionality and cli
+
+Phase 2
+-------
+Galaxy
+
+Phase 3
+-------
+Custom Web GUI
